@@ -1,0 +1,4 @@
+welcome to stream world!
+Enter a number:8 的平方是 64
+Enter a number:6 的平方是 36
+Enter a number:Bye
